@@ -2,10 +2,7 @@
 package TilesGui;
 
 /*
-Author: idea
-Class: CS342, Fall 2016
-System: Windows10 with NetBeans 8.1
-Program 4: 8 Tiles GUI.
+Joey Nelson
 
 Description: Either randomly generate
 or create your own 9 x 9 board containing
